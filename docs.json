@@ -19,14 +19,14 @@
     ]
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/images/Designer(8).png",
+    "dark": "/images/Designer(8).png"
   },
   "navbar": {
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "https://discord.com/invite/eA6UgwMACk"
       }
     ],
     "primary": {
