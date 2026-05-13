@@ -12,8 +12,13 @@
     "tabs": [
       {
         "tab": "kanri",
-        "pages": [
-          "purchasing"
+        "groups": [
+          {
+            "group": "Untitled Group",
+            "pages": [
+              "purchasing"
+            ]
+          }
         ]
       }
     ]
