@@ -18,10 +18,7 @@
       }
     ]
   },
-  "logo": {
-    "light": "/images/Designer(4).png",
-    "dark": "/images/Designer(4).png"
-  },
+  "logo": "/images/Designer(2).png",
   "navbar": {
     "links": [
       {
