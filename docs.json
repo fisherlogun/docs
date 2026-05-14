@@ -14,10 +14,8 @@
         "tab": "kanri",
         "groups": [
           {
-            "group": "Untitled Group",
-            "pages": [
-              "purchasing"
-            ]
+            "group": "Getting Started",
+            "pages": []
           }
         ]
       }
